@@ -1,3 +1,10 @@
  body {
-     background-color: goldenrod;
+     background-color: slategrey;
+ }
+ 
+ .dino-card {
+     background-color: black;
+     color: gold;
+     width: 250px;
+     text-align: center;
  }
